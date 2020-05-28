@@ -3,6 +3,6 @@ Python Course Project (4th Semester)
 
 Furkan Gündoğan aka Furu
 
-Türçe Tanıtım Video Linki:
+Türkçe Tanıtım Video Linki:
 
 https://www.youtube.com/watch?v=vJDUsdeaKYA&t=5s
